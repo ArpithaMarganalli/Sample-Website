@@ -1,8 +1,8 @@
 <?php
 if($_POST)
 {
-    $to_Email   	= "dhanraj@dfrozensoft.com"; //Replace with recipient email address
-    $subject        = 'D FROZEN SOFT PVT. LTD. - New Contact Inquiry'; //Subject line for emails
+    $to_Email   	= "mkarpitha6@gmail.com"; //Replace with recipient email address
+    $subject        = 'Sample Website'; //Subject line for emails
     
 
     //check if its an ajax request, exit if not
